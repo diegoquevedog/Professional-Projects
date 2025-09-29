@@ -6,6 +6,11 @@
 
 This project provides actionable insights into loan default patterns, customer segmentation, geographic performance, and revenue optimization for financial institutions.
 
+<img width="2334" height="1016" alt="image" src="https://github.com/user-attachments/assets/ea10d947-c0ef-4fcd-92d2-a1bbd775ed38" />
+
+<img width="2319" height="1013" alt="image" src="https://github.com/user-attachments/assets/c807b6cb-f5a9-4c35-9b21-38c5b4f99985" />
+
+
 ## 🎯 Purpose of the Project
 
 **Why this project matters:**
@@ -63,23 +68,6 @@ This analysis enables financial institutions to reduce default rates, optimize i
 - **Market Expansion**: Data-driven geographic expansion strategies
 - **Operational Efficiency**: Streamlined approval processes based on risk insights
 
-## 📁 Project Structure
-
-```
-Bank_Loan_Analysis/
-├── Bank_Loan_Analysis.twbx          # Main Tableau workbook
-├── data/
-│   ├── emp_length_insight.csv       # Employment analysis data
-│   └── cohorts.csv                  # Customer cohort data
-├── dashboards/
-│   ├── Executive_Summary_Dashboard   # C-level overview
-│   ├── Risk_Analysis               # Risk management focus
-│   ├── Customer_Segmentation       # Customer insights
-│   ├── Geographic_Analysis         # Regional performance
-│   ├── Portfolio_Performance       # Financial metrics
-│   └── Bank_Loan_Analysis         # Comprehensive analysis
-└── README.md                       # Project documentation
-```
 
 ## 🔄 Future Enhancements
 
