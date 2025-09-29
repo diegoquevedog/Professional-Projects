@@ -1,7 +1,7 @@
 # Airline Data Analysis Dashboard
 
 ## Project Overview
-This project presents a comprehensive analysis of airline passenger data using Tableau, showcasing insights into passenger demographics, flight patterns, and geographic distributions. The analysis examines 98k passenger records to identify key trends and patterns in airline operations. You can see the dashboard [Here](https://public.tableau.com/views/AirlineDataAnalysis_17577702816850/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+This project presents a comprehensive analysis of airline passenger data using Tableau and Excel, showcasing insights into passenger demographics, flight patterns, geographic distributions, data manipulation and cleaning. The analysis examines 98k passenger records to identify key trends and patterns in airline operations. You can see the dashboard [Here](https://public.tableau.com/views/AirlineDataAnalysis_17577702816850/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 <img width="2339" height="1209" alt="image" src="https://github.com/user-attachments/assets/5138ae51-a6a2-4620-8175-91241dcf2d68" />
 
