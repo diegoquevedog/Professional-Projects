@@ -1,0 +1,4 @@
+*.twbx filter=lfs diff=lfs merge=lfs -text
+git[[:space:]]lfs[[:space:]]track[[:space:]]*.twbx filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.xlsx filter=lfs diff=lfs merge=lfs -text
