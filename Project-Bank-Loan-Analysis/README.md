@@ -4,7 +4,7 @@
 
 **Comprehensive Bank Loan Portfolio Analysis** — Using Tableau to analyze loan performance, risk assessment, and profitability metrics across different customer segments, geographic regions, and loan characteristics to support data-driven lending decisions and portfolio management.
 
-This project provides actionable insights into loan default patterns, customer segmentation, geographic performance, and revenue optimization for financial institutions. You can see the dashboads [Here]([https://public.tableau.com/app/profile/diego.quevedo.garc.a/vizzes](https://public.tableau.com/views/Bank_Loan_Analysis_17587454562100/Bank_Loan_Analysis?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+This project provides actionable insights into loan default patterns, customer segmentation, geographic performance, and revenue optimization for financial institutions. You can see the dashboads [Here](https://public.tableau.com/views/Bank_Loan_Analysis_17587454562100/Bank_Loan_Analysis?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 <img width="2334" height="1016" alt="image" src="https://github.com/user-attachments/assets/ea10d947-c0ef-4fcd-92d2-a1bbd775ed38" />
 
