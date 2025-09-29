@@ -3,6 +3,7 @@
 ## 📊 Project Overview
 
 **Comprehensive BikeStore Sales Analysis**
+
 A comprehensive end-to-end analysis of a bicycle retailer using a Tableau workbook extract, profitability metrics across different customer segments, geographic regions, and loan characteristics to support data-driven lending decisions and portfolio management. Based KPIs and visual insights. You can see the dashboard [Here](https://public.tableau.com/views/BikeStoreAnalysis_17563861832900/ExecutiveDashboard?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 <img width="2333" height="1178" alt="image" src="https://github.com/user-attachments/assets/769ee4c8-d210-4d22-b214-71bfa79d3bb2" />
