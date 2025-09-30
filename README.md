@@ -26,13 +26,13 @@ Price analysis and tracking in Seattle thanks to Tableau dashboards covering dif
 
 **🛠️ Tech Stack**
 
-SQL (T-SQL, MySQL) – advanced queries, KPI creation, data transformations
+- SQL (T-SQL, MySQL) – advanced queries, KPI creation, data transformations
 
-Tableau – interactive dashboards, business insights, executive reporting
+- Tableau – interactive dashboards, business insights, executive reporting
 
-Excel – financial modeling, automation with formulas & macros
+- Excel – financial modeling, automation with formulas & macros
 
-Python – data cleaning, visualization, and automation
+- Python – data cleaning, visualization, and automation
 
 **🎯 About Me**
 
